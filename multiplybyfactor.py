@@ -17,7 +17,7 @@ logger = logging.getLogger(__name__)
 PACKAGE_URL = 'git+https://github.com/nkalyanc/starter/functions@'
 # I updated above URL -
 
-class KN_MultiplyByFactor(BaseTransformer):
+class MultiplyByFactor(BaseTransformer):
 
     def __init__(self, input_items, factor, output_items):
 
