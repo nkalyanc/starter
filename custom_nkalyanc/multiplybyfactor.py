@@ -16,7 +16,7 @@ logger = logging.getLogger(__name__)
 
 PACKAGE_URL = 'git+https://github.com/nkalyanc/starter/functions@'
 
-class MultiplyByFactor(BaseTransformer):
+class MultiplyByFactor_nkalyanc(BaseTransformer):
 
     def __init__(self, input_items, factor, output_items):
 
