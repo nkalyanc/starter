@@ -1,0 +1,11 @@
+future
+dill
+pandas
+sklearn
+requests
+urllib3
+sqlalchemy
+ibm_db_sa
+ibm_cos_sdk
+lxml
+git+git://github.com/ibm-watson-iot/functions.git@production#egg=iotfunctions
