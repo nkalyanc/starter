@@ -14,7 +14,7 @@ logger = logging.getLogger(__name__)
 # Specify the URL to your package here.
 # This URL must be accessible via pip install
 
-PACKAGE_URL = 'git+https://github.com/nkalyanc/starter/functions@'
+PACKAGE_URL = 'git+https://github.com/nkalyanc/starter@'
 
 # changed the class name to avoid clash with others
 class MultiplyByFactor_nkalyanc(BaseTransformer):
