@@ -39,7 +39,7 @@ This file will be written to the working directory.
 
 '''
 
-from custom.functions import HelloWorld
+from custom_nkalyanc.functions import HelloWorld
 fn = HelloWorld(
         name = 'Mike',
         greeting_col = 'greeting')
